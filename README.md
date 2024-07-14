@@ -12,7 +12,8 @@
 
 <h2>📝 Certifications </h2>
 
-  -[Google CyberSecurity Professional](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1713793109240/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white&labelColor=FBBC05" />
+  -[Google CyberSecurity Professional](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1713793109240/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white&labelColor=FBBC05&labelBackgroundColor=EA4335" />
+
 
 
   
