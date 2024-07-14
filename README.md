@@ -15,6 +15,8 @@
 
   -[Microsoft Cybersecurity Analyst Professional]()
 
+  -[Certified Splunk](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1720713339044/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)
+
 
 <h2>📺 Popular Blog Articles</h2>
 
