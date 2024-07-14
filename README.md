@@ -5,7 +5,7 @@
   - [Active Directory Home Lab](https://github.com/henri7belinga/Active-Directory-Home-Lab/)
   - [SOC/SOAR Home Lab](https://github.com/henri7belinga/SOC-SOAR-Home-Lab/)
   - [File Integrity Management Home Lab](https://github.com/henri7belinga/File-Integrity-Management-/)
-  - [Encryption Software Apps](https://github.com/henri7belinga/Encryption-Software-Application/)
+  - [Encryption Software Apps](https://github.com/henri7belinga/ENCRYPTION-SOFTWARE-APP/)
 
 <h2>📝 Certifications </h2>
 
