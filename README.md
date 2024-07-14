@@ -1,4 +1,5 @@
 <h1>Hi, I'm Henri! <br/> <a href="https://www.linkedin.com/in/henri-belinga-b23a80275/">CyberSecurity Professional</a>, <a href="https://www.builtsecurityblog.com/">Blogger</a> ,<a href="https://www.youtube.com/@BuiltSecurity">YouTuber</a></h1>
+<a href="https://www.linkedin.com/in/henri-belinga-b23a80275/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
