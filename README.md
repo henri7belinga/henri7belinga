@@ -15,7 +15,8 @@
   -[Google CyberSecurity Professional](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1713793109240/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
   
-  -[ISO/IEC 27001 Information Security Associate](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1712329158995/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)
+  -[ISO/IEC 27001 Information Security Associate](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1712329158995/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)    <img src="https://img.shields.io/badge/-ISO/IEC%2027001%20Information%20Security%20Associate-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" />
+
 
   -[Microsoft Cybersecurity Analyst Professional]()
 
