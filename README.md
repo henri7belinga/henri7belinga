@@ -18,7 +18,8 @@
   -[ISO/IEC 27001 Information Security Associate](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1712329158995/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)    <img src="https://img.shields.io/badge/-ISO/IEC%2027001%20Information%20Security%20Associate-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" />
 
 
-  -[Microsoft Cybersecurity Analyst Professional]()
+  -[Microsoft Cybersecurity Analyst Professional]()     <img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20Professional-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 
   -[Certified Splunk](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1720713339044/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
