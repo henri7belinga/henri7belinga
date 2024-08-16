@@ -34,6 +34,7 @@
 
 <h2>📺 Popular Blog Articles</h2>
 
+- [The Perfect Cybersecurity Resume: A 6-Step Guide](https://www.builtsecurityblog.com/2024/08/the-perfect-cybersecurity-resume-6-step.html)
 - [Entry-Level Jobs in Cybersecurity: Your Gateway to a Rewarding Career](https://www.builtsecurityblog.com/2024/05/entry-level-jobs-in-cybersecurity-your.html)
 - [An investigation reveals global surveillance based on digital advertising. ](https://www.builtsecurityblog.com/2024/01/an-investigation-reveals-global.html)
 - [How to Get into Cybersecurity in 2024: A Comprehensive Guide](https://www.builtsecurityblog.com/2024/06/how-to-get-into-cybersecurity-in-2024.html)
