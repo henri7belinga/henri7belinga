@@ -19,7 +19,7 @@
   -[ISO/IEC 27001 Information Security Associate](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1712329158995/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)    <img src="https://img.shields.io/badge/-ISO/IEC%2027001%20Information%20Security%20Associate-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" />
   
 
-  -[Cisco CCNA](https://www.credly.com/badges/c608e3e1-6736-4b03-ad1c-d4e535bfa61f/public_url)   <img src="https://img.shields.io/badge/-Cisco%20CCNA-003C52?&style=for-the-badge&logo=Cisco&logoColor=white" />
+  -[Cisco Certified Network Defense](https://www.credly.com/badges/38379b93-abab-4145-992e-aac99b6702ba/public_url)   <img src="https://img.shields.io/badge/-Cisco%20CCNA-003C52?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 
   -[Certified Splunk](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1720713339044/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
