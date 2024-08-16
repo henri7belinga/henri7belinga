@@ -28,6 +28,9 @@
   -[Certified Qualyse Vulnerability Management](https://www.linkedin.com/in/henri-belinga-b23a80275/details/certifications/1723724220278/single-media-viewer/?type=DOCUMENT&profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)       <img src="https://img.shields.io/badge/-Qualys%20Certified-red?style=for-the-badge&logo=Qualys&logoColor=white" />
 
 
+  --[Cisco Certified Network Endpoint Security](https://www.credly.com/badges/48214b8e-c06d-4043-83bc-d166f7fed480/public_url)   <img src="https://img.shields.io/badge/-Cisco%20CCNA-003C52?&style=for-the-badge&logo=Cisco&logoColor=white" />
+
+
 
 <h2>📺 Popular Blog Articles</h2>
 
