@@ -25,7 +25,7 @@
   -[Certified Splunk](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1720713339044/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
 
-  -[Certified Qualyse Vulnerability Management](https://www.linkedin.com/in/henri-belinga-b23a80275/details/certifications/1723724220278/single-media-viewer/?type=DOCUMENT&profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)       <img src="https://img.shields.io/badge/-Qualys%20Certified-000000?style=for-the-badge&logo=Qualys&logoColor=white" />
+  -[Certified Qualyse Vulnerability Management](https://www.linkedin.com/in/henri-belinga-b23a80275/details/certifications/1723724220278/single-media-viewer/?type=DOCUMENT&profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)       <img src="https://img.shields.io/badge/-Qualys%20Certified-red?style=for-the-badge&logo=Qualys&logoColor=white" />
 
 
 
