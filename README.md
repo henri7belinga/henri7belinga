@@ -17,15 +17,15 @@
 
   
   -[ISO/IEC 27001 Information Security Associate](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1712329158995/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)    <img src="https://img.shields.io/badge/-ISO/IEC%2027001%20Information%20Security%20Associate-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" />
-
-
-  -[Microsoft Cybersecurity Analyst Professional]()     <img src="https://img.shields.io/badge/-Microsoft%20Cybersecurity%20Analyst%20Professional-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
+  
 
   -[Cisco CCNA](https://www.credly.com/badges/c608e3e1-6736-4b03-ad1c-d4e535bfa61f/public_url)   <img src="https://img.shields.io/badge/-Cisco%20CCNA-003C52?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 
   -[Certified Splunk](https://www.linkedin.com/in/henri-belinga-b23a80275/overlay/1720713339044/single-media-viewer/?profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
+
+  -[Certified Qualyse Vulnerability Management](https://www.linkedin.com/in/henri-belinga-b23a80275/details/certifications/1723724220278/single-media-viewer/?type=DOCUMENT&profileId=ACoAAENBlksBzkQXxWiNzT1BZkv04h-H4LD_uKM)       <img src="https://img.shields.io/badge/-Qualys%20Certified-000000?style=for-the-badge&logo=Qualys&logoColor=white" />
 
 
 
