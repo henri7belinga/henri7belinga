@@ -9,7 +9,7 @@
   - [SOC/SOAR Home Lab](https://github.com/henri7belinga/SOC-SOAR-Home-Lab/)
   - [File Integrity Management Home Lab](https://github.com/henri7belinga/FILE-INTEGRITY-MANAGEMENT-HOME-LAB/)
   - [Encryption Software Apps](https://github.com/henri7belinga/ENCRYPTION-SOFTWARE-APP/)
-  - Splunk(SIEM) Home Labs <br/> [Home Lab 1]  (https://github.com/henri7belinga/Splunk-home-lab-1-) <br/> [Home Lab 2](https://github.com/henri7belinga/Splunk-Home-Lab-2-)
+  - Splunk(SIEM) Home Labs <br/> [Home Lab 1] (https://github.com/henri7belinga/Splunk-home-lab-1-) <br/> [Home Lab 2](https://github.com/henri7belinga/Splunk-Home-Lab-2-)
 
 <h2>📝 Certifications </h2>
 
